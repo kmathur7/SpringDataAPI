@@ -23,5 +23,5 @@ artifacts:
     - 'appspec.yml'
     - 'template.yml'
     - 'scripts/*'
-    - 'target/ROOT.war'
+    - 'target/ROOT.jar'
     - 'template-configuration.json'
